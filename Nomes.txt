@@ -1,5 +1,5 @@
 Nomes de personagens de star wars:
-Luke
-Leia
-Anakin
 Vader
+Palpatine
+Kylo Ren
+Maul
